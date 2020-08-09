@@ -1,6 +1,7 @@
-# Test files
+# Vendor files
 node_modules
 npm-debug.log
+vendor
 
 # Jekyll
 _site
